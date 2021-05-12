@@ -6,5 +6,5 @@ Login információ:
   username: admin
   password: admin
   
-  Neptun kód: O6YSX9
-  Név: Reviczky Zoltán
+Neptun kód: O6YSX9
+Név: Reviczky Zoltán
